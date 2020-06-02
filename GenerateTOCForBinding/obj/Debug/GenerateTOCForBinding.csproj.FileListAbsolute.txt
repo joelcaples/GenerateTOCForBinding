@@ -1,0 +1,17 @@
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\ResolveAssemblyReference.cache
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.frmMain.resources
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.Properties.Resources.resources
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.csproj.GenerateResource.Cache
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\Interop.Office.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\Interop.VSTOStgLib.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.csproj.ResolveComReference.cache
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\GenerateTOCForBinding.exe
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\GenerateTOCForBinding.pdb
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\office.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\Interop.Office.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\bin\Debug\Interop.VSTOStgLib.dll
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.exe
+c:\dev\jDev\GenerateTOCForBinding\GenerateTOCForBinding\obj\Debug\GenerateTOCForBinding.pdb

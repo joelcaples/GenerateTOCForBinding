@@ -1,0 +1,12 @@
+﻿          body            {font-family:helvetica; color:white; background-color:#191970}
+          /*.report         {border:5px solid navy;}*/
+          .reportheading  {background-color: #191970; color: #FFFFFF }
+          .oddrow         {background-color: #C0C0C0; color:#191970 }
+          .evenrow        {background-color: #FFFFFF; color:#191970 }
+          .issuename      {font-weight:bold; font-size:xx-large}
+          .issuetitle     {font-style:italic; font-size:xx-large}
+          .value          {font-weight:bold; font-size:xx-large}
+          .footer         {page-break-before: always}
+          .issue          {vertical-align:text-top}
+          .volume_title   {font-weight:bold; font-size:xx-large}
+          .toc_summary    {font-weight:bold; font-size:xx-large;vertical-align:text-top;}
